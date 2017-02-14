@@ -17,10 +17,7 @@ public class lowarrayapp {
 	nElems = 7;
 		
 		//search 23
-		
-		for(int j =0 ; j<la.size;j++)
-			sys
-		
+	
 		
 	}
 	
